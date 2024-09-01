@@ -1,19 +1,7 @@
 # FakeNews-Transformers
 This project focuses on detecting fake news using Transformer-based models such as BERT and CT-BERT. The models are trained using different approaches, including Fine-Tuning and Feature-Based methods, to assess their effectiveness in identifying fake news related to COVID-19.
 
-Table of Contents
-Introduction
-Models and Approaches
-Fine-Tuning Approaches
-Feature-Based Approaches
-Dataset
-Preprocessing
-Results
-Fine-Tuning Results
-Feature-Based Results
-Analysis
-How to Run
-Conclusion
+
 Introduction
 In this project, we investigate the effectiveness of Transformer-based models such as BERT and CT-BERT in detecting fake news, particularly related to COVID-19. The project explores different training strategies, including Fine-Tuning and Feature-Based methods, to determine the most effective approach for this task.
 
